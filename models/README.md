@@ -1,0 +1,1 @@
+Location where the saved unimodal models are stored in order to load the LSTM weights for the PAIR architecture
