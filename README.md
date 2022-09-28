@@ -6,12 +6,12 @@ _Although media content is increasingly produced, distributed, and consumed in m
 
 If you find this resource useful, [please cite the original work](https://arxiv.org/abs/2202.10453):
 
-  @article{chua2022predicting,
+  `@article{chua2022predicting,
     title={Predicting emotion from music videos: exploring the relative contribution of visual and auditory information to affective responses},
     author={Chua, Phoebe and Makris, Dimos and Herremans, Dorien and Roig, Gemma and Agres, Kat},
     journal={arXiv preprint arXiv:2202.10453},
     year={2022}
-  }
+  }`
 
   Chua, P., Makris, D., Herremans, D., Roig, G., & Agres, K. (2022). Predicting emotion from music videos: exploring the relative contribution of visual and auditory information to affective responses. arXiv preprint arXiv:2202.10453.
 
