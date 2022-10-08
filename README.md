@@ -17,13 +17,13 @@ If you find this resource useful, [please cite the original work](https://arxiv.
 
 
 ## Dataset files
-- `video_urls.csv`: contains the YouTube ids of MuVi dataset. We can also provide all the media files (for all modalities) upon [e-mail request](mailto:dimakr169@gmail.com).
+- `video_urls.csv`: contains the YouTube ids of MuVi dataset. We can also provide all the [media files](https://zenodo.org/record/7127775#.Y0Dq1exBxhE) (for all modalities) upon [e-mail request](mailto:dimakr169@gmail.com).
 - `participant_data.csv`: we provide the anonymized profile and demographic information of the annotators.
 - `media_data.csv`:  contains the static annotations which describe the media item’s overall emotion. The terms that were used are based on the GEMS-28 term list.
 - `av_data.csv`: \iIncludes the dynamic (continuous) annotations for valence and arousal.
 
 
-We also included the extracted audio features (``./emobase_features`). The visual features can be found [here.](https://drive.google.com/file/d/1avyXoSi1mXPONwInKu0hBWbXCHF8CgjC/view?usp=sharing)
+We also included the extracted audio features (``./emobase_features``). The extracted audio features as well as all extracted visual features (color, lighting key, facial expressions, scenes, objects and actions) can be found [here.](https://zenodo.org/record/7128177)
 
 ## PAIR models
 The file `train_pair_models.py` includes all of the functions and information necessary for pre-processing and training the proposed PAIR architectures.
